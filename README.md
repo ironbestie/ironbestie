@@ -1,6 +1,7 @@
 <div id="header" align="center">
     <h1>Hi there, I'm Marina </h1>
     <h3>Python Developer from Moscow</h3>
+Привет! Я — начинающий разработчик на Python с увлечением машинным обучением и веб-разработкой.
 </div>
 
 <div id="socials" align="center">
