@@ -1,6 +1,6 @@
 <div id="header" align="center">
-    <h1>Hi there, I'm  Ivan </h1>
-    <h3>Full Stack Developer from New York</h3>
+    <h1>Hi there, I'm Marina </h1>
+    <h3>Python Developer from Moscow</h3>
 </div>
 
 <div id="socials" align="center">
@@ -16,7 +16,7 @@
 </div>
 
 ### About me
-- 🌱 I’m currently learning **Web3, GameDev**
+- 🌱 I’m currently learning **Python: ML, Django**
 - 📝 I regularly write articles on [Medium](medium-link)
 - 📄 Know about my experiences [CV](cv-link)
 - 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
