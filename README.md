@@ -17,7 +17,7 @@
 
 ### About me
 - 🌱 I’m currently learning **Python: ML, Django**
-- 📝 I regularly write articles on [Dzen](dzen-link), [Telegram channel](telegram-channel-link)
+- 📝 I regularly write articles on [Dzen](dzen-link) и [Telegram channel](telegram-channel-link)
 - 📄 Know about my experiences [CV](cv-link)
 - 📫 Reach me by [Telegram](telegram-link), [email](mailto:email-address), [LinkedIn](linkedin-link)
 - 🌍 I speak Russian, English
