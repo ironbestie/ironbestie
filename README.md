@@ -42,7 +42,7 @@
 
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ironbestie&theme=flag_india" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ironbestie&theme=flag_india" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ironbestie&theme=flag_india" alt=""/>
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ironbestie&theme=flag_india" alt=""/>
 </div>
 
