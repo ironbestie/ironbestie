@@ -4,6 +4,8 @@
 </div>
 
 <div id="socials" align="center">
+    <img width="220" height="176" alt="image" src="https://github.com/user-attachments/assets/ac117368-3150-4801-afae-799f173b43e8" />
+
     <a href="linkedin-url">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
