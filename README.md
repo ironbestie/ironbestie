@@ -4,7 +4,7 @@
 </div>
 
 <div id="socials" align="center">
-    <img width="220" height="176" alt="image" src="https://github.com/ironbestie/ironbestie/blob/main/cat.gif" />
+    <img width="300" height="300" alt="image" src="https://github.com/ironbestie/ironbestie/blob/main/cat.gif" />
     <a href="linkedin-url">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
