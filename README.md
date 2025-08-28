@@ -10,8 +10,10 @@
 - Python (Основы, ООП, автоматизация)
 - Машинное обучение (базовые модели, библиотеки scikit-learn, pandas)
 - Веб-разработка (HTML, CSS, Django)
-- Работа с базами данных (PostgreSQL, SQLite)
+- Работа с базами данных (PostgreSQL, SQLite, MySQL)
 - Верстка и стилизация интерфейсов
+
+- Также умею создавать UML-диаграммы, ER-диаграммы (проектирование БД) и др.
 
 <div id="socials" align="center">
     <img width="500" height="300" alt="image" src="https://github.com/ironbestie/ironbestie/blob/main/prog.gif" />
