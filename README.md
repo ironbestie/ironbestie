@@ -1,4 +1,3 @@
-<div background="pink" color="blue" width="100" height="100">hihihi</div>
 <div id="header" align="center">
     <h1>Hi there, I'm Marina </h1>
     <h3>Python Developer from Moscow</h3>
