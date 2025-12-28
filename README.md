@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Hi there, I'm Marina </h1>
-    <h3>Python Developer from Moscow</h3>
+    <h3>System Analyst from Moscow</h3>
 <p>Я — системный аналитик. На моем GitHub собрано портфолио из моих проектов.</p>
 </div>
 
